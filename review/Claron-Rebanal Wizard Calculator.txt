@@ -1,0 +1,5 @@
+﻿Build started at 3:07 pm...
+1>------ Build started: Project: Calculator, Configuration: Debug Any CPU ------
+1>  Calculator -> C:\Users\Karl\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 3:07 pm and took 00.164 seconds ==========
